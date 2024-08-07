@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    font-family: "Gupter",sans-serif;
+} */
+
+body {
+    background-color: black; /* This is the hex code for bg-stone-900 */
+}
