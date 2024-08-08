@@ -16,7 +16,7 @@ const ExperiencePage = () => {
 
             {/* Experience Section */}
             <div className="flex flex-col lg:flex-row lg:space-x-8 mb-12 text-black">
-                {/* Delhivery Experience Card */}
+                {/* Experience Card */}
                 <div className="bg-gradient-to-r from-white to-stone-400 p-6 rounded-lg shadow-lg flex-1 hover:shadow-xl transition-shadow duration-300">
                     <div className="flex items-center mb-4">
                         <img src="/delhivery-logo.png" alt="Delhivery Logo" className="w-16 h-16 rounded-full shadow-md" />

@@ -1,7 +1,6 @@
 import React from 'react'
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import { ReactTyped } from "react-typed";
-import pic from "/pic1.jpg"
 import { Link } from 'react-scroll';
 
 function Home() {
@@ -11,7 +10,7 @@ function Home() {
                 className='max-w-screen-2xl container mx-auto px-4 md:px-40 my-20 py-16 text-white'>
                 <div className='flex flex-col md:flex-row items-center md:items-start'>
                     <div className='w-full md:w-1/2 flex justify-center md:justify-center md:pr-10 md:mt-20'>
-                        <img src={pic} className='rounded-full h-[200px] w-[200px] lg:h-[360px] lg:w-[360px] flex-shrink-0' alt="Profile" />
+                        <img src="/pic1.jpg" className='rounded-full h-[200px] w-[200px] lg:h-[360px] lg:w-[360px] flex-shrink-0' alt="Profile" />
                     </div>
                     <div className='w-full md:w-1/2 mt-12 md:mt-20 space-y-3 text-center md:text-left'>
                         <div className='text-2xl md:text-4xl'>
