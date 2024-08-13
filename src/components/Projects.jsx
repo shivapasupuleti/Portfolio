@@ -21,7 +21,7 @@ function Projects() {
             techStack: ["Python", "OpenCV", "FacialRecogniton", "MachineLearning"],
             imageUrl: "/project_pics/Miniproject.png",
             projectUrl: "",
-            githubUrl:""
+            githubUrl:"https://github.com/shivapasupuleti/FaceRecognition_Attendance_System"
         },
         {
             title: "Text Summarizer",

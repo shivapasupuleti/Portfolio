@@ -42,14 +42,14 @@ function ProjectCard({ title, description, techStack, imageUrl, projectUrl, gith
                         ))}
                     </div>
                     <div className="flex justify-center space-x-6 mt-2">
-                        <a
+                        {projectUrl &&(<a
                             href={projectUrl}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-gradient-to-r h-10 text-center from-purple-600 to-pink-600 text-white px-4 py-2 rounded-full shadow-md hover:scale-110 hover:from-pink-500 hover:to-purple-500 transition-colors"
                         >
                             Live Demo
-                        </a>
+                        </a>)}
                         <a
                             href={githubUrl}
                             target="_blank"

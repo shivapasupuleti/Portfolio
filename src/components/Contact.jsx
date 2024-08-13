@@ -55,6 +55,9 @@ function ContactForm() {
             email: '',
             message: '',
         });
+        setTimeout(() => {
+            setMessageSent(false);
+          }, 10000);
     };
 
     return (
