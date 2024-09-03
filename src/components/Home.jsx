@@ -45,7 +45,7 @@ function Home() {
                                         Contact Me
                                     </Link>
                                 </button>
-                                <a href="/VenkataShiva_Resume.pdf" target="_blank" rel="noopener noreferrer" className="w-25 md:w-48 h-15 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold py-3 px-6 rounded-full shadow-lg hover:from-pink-500 hover:to-purple-500 focus:outline-none focus:ring-2 focus:ring-purple-300 flex items-center justify-center">
+                                <a href="/VenkataShiva_Pasupuleti.pdf" target="_blank" rel="noopener noreferrer" className="w-25 md:w-48 h-15 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold py-3 px-6 rounded-full shadow-lg hover:from-pink-500 hover:to-purple-500 focus:outline-none focus:ring-2 focus:ring-purple-300 flex items-center justify-center">
                                     My Resume
                                 </a>
                             </div>
